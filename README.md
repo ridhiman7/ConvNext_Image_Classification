@@ -1,0 +1,2 @@
+# ConvNext_Image_Classification
+Image classigication Using ConvnextV2
